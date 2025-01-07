@@ -1,3 +1,4 @@
+new commit from git
 # new
 
 <<<<<<< HEAD
